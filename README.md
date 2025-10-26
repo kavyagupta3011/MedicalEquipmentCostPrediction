@@ -43,3 +43,6 @@ A wide range of models was tested, supported by extensive feature engineering (e
 * Linear regression assumes linear relationships between features and target — but real-world data is rarely purely linear. AdaBoost, with its adaptive weighted decision trees, can model non-linearities, interactions, and complex feature effects far better. 
 * A single decision tree can easily overfit or underfit depending on its depth. AdaBoost reduces variance and improves generalization by combining many weak learners, effectively smoothing the decision boundary. 
 * XGBoost and Gradient Boosting are powerful but complex. As our data is small and noisy, XGBoost and Gradient Boosting might be overfitting and  hence are performing slightly lesser than Adaboost Regressor. AdaBoost, using very shallow stumps and exponential weighting, sometimes generalizes better by being simpler and less flexible. AdaBoost can act like a “gentle” booster — less likely to overfit when data volume or quality isn’t great.
+
+## Report:
+[https://github.com/nainika0305/MedicalEquipmentCostPrediction/blob/main/ReportML_IMT2023016_034_529.pdf](https://github.com/nainika0305/MedicalEquipmentCostPrediction/blob/main/ReportML_IMT2023016_034_529.pdf)
