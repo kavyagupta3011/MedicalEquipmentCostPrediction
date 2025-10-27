@@ -45,4 +45,4 @@ A wide range of models was tested, supported by extensive feature engineering (e
 * XGBoost and Gradient Boosting are powerful but complex. As our data is small and noisy, XGBoost and Gradient Boosting might be overfitting and  hence are performing slightly lesser than Adaboost Regressor. AdaBoost, using very shallow stumps and exponential weighting, sometimes generalizes better by being simpler and less flexible. AdaBoost can act like a “gentle” booster — less likely to overfit when data volume or quality isn’t great.
 
 ## Report:
-[https://github.com/nainika0305/MedicalEquipmentCostPrediction/blob/main/ReportML_IMT2023016_034_529.pdf](https://github.com/nainika0305/MedicalEquipmentCostPrediction/blob/main/ReportML_IMT2023016_034_529.pdf)
+[https://github.com/kavyagupta3011/MedicalEquipmentCostPrediction/blob/main/ReportML_IMT2023016_034_529.pdf](https://github.com/kavyagupta3011/MedicalEquipmentCostPrediction/blob/main/ReportML_IMT2023016_034_529.pdf)
